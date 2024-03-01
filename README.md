@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HakimAhmadi1
+👋 Hi, I’m Hakim Ahmadi
 
 # 💫 About Me:
 Currently Working on Different websites using different tools.
