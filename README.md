@@ -1,7 +1,7 @@
 👋 Hi, I’m Hakim Ahmadi
 
 # 💫 About Me:
-Currently Working on Different websites using different tools.
+Hakim Ahmadi - Full-Stack Developer with AWS, Django, React and more
 
 
 ## 🌐 Socials:
